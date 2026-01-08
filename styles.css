@@ -39,7 +39,7 @@ body {
     color: #595656;
     opacity: 0.9;
     text-decoration: underline;
-    display: inline-block; /* IMPORTANT for transform */
+    display: inline-block; 
     transition: 
         transform 0.25s ease,
         color 0.25s ease,
